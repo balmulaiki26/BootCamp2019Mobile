@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>com.TD</module>
+        <module>Indeed</module>
     </modules>
     <build>
         <plugins>
