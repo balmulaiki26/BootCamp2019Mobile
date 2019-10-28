@@ -10,6 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Generic</artifactId>
+
+
     <dependencies>
 
         <dependency>
@@ -49,6 +51,5 @@
             <artifactId>google-oauth-client-jetty</artifactId>
         </dependency>
     </dependencies>
-
 
 </project>

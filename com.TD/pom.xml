@@ -11,8 +11,9 @@
 
     <artifactId>com.TD</artifactId>
     <dependencies>
+
         <dependency>
-            <groupId>com.MobileAutomation</groupId>
+            <groupId>com.peoplentech</groupId>
             <artifactId>Generic</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
